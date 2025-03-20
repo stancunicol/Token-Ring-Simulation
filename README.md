@@ -1,18 +1,18 @@
 # Token-Ring-Simulation
 
-# Descriere
+# Description
+This project simulates a Token Ring network protocol, where a token circulates between 10 computers, enabling communication among them. Each computer has a randomly generated IP and can send messages to another computer in the network.
 
-Acest proiect simulează un protocol de rețea Token Ring, unde un jeton circulă între 10 calculatoare, permițând comunicarea între ele. Fiecare calculator are un IP generat aleatoriu și poate trimite mesaje către alt calculator din rețea.
 
-# Caracteristici
+# Features
+Random generation of IP addresses for each computer
 
-Generare aleatorie a adreselor IP pentru fiecare calculator
+Random selection of a source and destination computer
 
-Selectarea aleatorie a unui calculator sursă și a unui calculator destinație
+Message transmission using a token that circulates within the network
 
-Transmiterea unui mesaj folosind un jeton care circulă în rețea
+Display of the token's path and each computer's buffer content
 
-Afișarea traseului jetonului și a conținutului buffer-ului fiecărui calculator
 
 ![image](https://github.com/user-attachments/assets/0a50aeb2-ce7b-4741-8cd5-e05fcbeb1a49)
 
